@@ -7,7 +7,7 @@
 #
 Name     : R-BiocGenerics
 Version  : 0.50.0
-Release  : 1
+Release  : 2
 URL      : https://bioconductor.org/packages/release/bioc/src/contrib/BiocGenerics_0.50.0.tar.gz
 Source0  : https://bioconductor.org/packages/release/bioc/src/contrib/BiocGenerics_0.50.0.tar.gz
 Summary  : S4 generic functions used in Bioconductor
